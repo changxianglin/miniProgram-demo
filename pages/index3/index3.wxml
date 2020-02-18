@@ -1,0 +1,10 @@
+<!--pages/index3/index3.wxml-->
+<view>
+  start write page content.
+  <view>content: {{msg}}</view>
+  <view>gender: {{gender}}</view>
+  <view wx:for="{{content}}" wx:key="id">{{item.desc}}</view>
+  <view>
+  <checkbox checked="{{true}}"></checkbox>
+  </view>
+</view>
