@@ -1,0 +1,7 @@
+<!--pages/index4/index4.wxml-->
+<view>
+ <checkbox checked="{{isChecked ? true : false}}"></checkbox>
+ <view>{{number1 + number2}}</view>
+ <view>{{str1 + str2}}</view>
+ <view wx:if="{{num > 12}}">number is over 23</view>
+</view>
