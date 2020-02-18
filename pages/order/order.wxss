@@ -1,0 +1,7 @@
+/* pages/order/order.wxss */
+.order {
+  display: flex;
+  justify-content: center;
+  color: orange;
+  margin-top: 10rem;
+}

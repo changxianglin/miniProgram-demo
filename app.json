@@ -1,14 +1,16 @@
 {
   "pages": [
+    "pages/order/order",
     "pages/index/index",
     "pages/logs/logs",
     "pages/detail/detail"
   ],
   "window": {
-    "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#fff",
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#f00",
     "navigationBarTitleText": "微信开发",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
