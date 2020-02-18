@@ -12,6 +12,18 @@
     "navigationBarTextStyle": "white",
     "enablePullDownRefresh": true
   },
+  "tabBar": {
+    "clor": "#ffffff",
+    "selectedColor": "#ff0000",
+    "backgroundColor": "#00ff00",
+    "list": [{
+      "pagePath": "pages/order/order",
+      "text": "订单"
+    }, {
+      "pagePath": "pages/detail/detail",
+      "text": "详情"
+    }]
+  },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
 }
