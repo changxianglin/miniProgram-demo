@@ -1,0 +1,6 @@
+/* pages/index6/index6.wxss */
+.box6 {
+  width: 50rpx;
+  height: 50rpx;
+  background-color: aqua;
+}
