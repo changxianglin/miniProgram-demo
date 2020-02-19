@@ -1,0 +1,8 @@
+<!--pages/index5/index5.wxml-->
+<view wx:for="{{arr}}" wx:key="index">
+{{index}}:{{item}}
+</view>
+<view wx:for="{{person}}" wx:key="index" wx:for-index="index">{{index}}:{{item}}</view>
+<block wx:for="{{arr}}" wx:key="index">
+{{index}}:{{item}}
+</block>
