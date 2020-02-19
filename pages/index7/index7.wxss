@@ -1,0 +1,3 @@
+/* pages/index7/index7.wxss */
+/* 导入样式 */
+@import "../../stylues/box.wxss";
