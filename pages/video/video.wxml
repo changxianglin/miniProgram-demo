@@ -1,0 +1,2 @@
+<!--pages/video/video.wxml-->
+<video src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" autoplay="true" duration="30" controls="true"></video>
