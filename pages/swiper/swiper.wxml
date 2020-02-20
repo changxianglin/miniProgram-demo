@@ -1,0 +1,6 @@
+<!--pages/swiper/swiper.wxml-->
+<swiper autoplay="true" indicator-dots="true" indicator-color="white" indicator-active-color="red">
+  <swiper-item>item1</swiper-item>
+  <swiper-item>item2</swiper-item>
+  <swiper-item>item3</swiper-item>
+</swiper>
