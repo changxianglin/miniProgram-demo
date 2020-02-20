@@ -1,0 +1,6 @@
+<!--pages/index9/index9.wxml-->
+<view hover-class="active">view</view>
+<view>not seletable</view>
+<view>
+<text selectable="true">index9 text</text>
+</view>

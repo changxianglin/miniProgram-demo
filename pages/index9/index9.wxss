@@ -1,0 +1,6 @@
+/* pages/index9/index9.wxss */
+.active {
+  background-color: orange;
+  font-size: 20px;
+  opacity: .5;
+}
