@@ -1,0 +1,7 @@
+/* components/MyHeader/MyHeader.wxss */
+
+.my_header {
+  color: white;
+  background-color: orange;
+  font-size: 30px;
+}
