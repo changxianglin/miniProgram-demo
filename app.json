@@ -1,5 +1,6 @@
 {
   "pages": [
+    "pages/navigator/navigator",
     "pages/swiper/swiper",
     "pages/img/img",
     "pages/index9/index9",

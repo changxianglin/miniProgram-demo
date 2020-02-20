@@ -1,0 +1,6 @@
+<!--pages/navigator/navigator.wxml-->
+<navigator url="../swiper/swiper" open-type="navigate">navigator</navigator>
+
+<navigator url="../swiper/swiper" open-type="redirect">redirect</navigator>
+
+<navigator url="../detail/detail">switchTab</navigator>
