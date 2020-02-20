@@ -1,0 +1,4 @@
+<!--pages/index8/index8.wxml-->
+<view style="background-color: orange;color: {{myColor}}">styles</view>
+
+<view class="{{myClass}}">myClass</view>
